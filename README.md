@@ -1,6 +1,6 @@
 handle large datasets, perform key sales analyses, and create actionable business recommendations through clean visualizations.
 
-# Sales Performance Analysis
+# A. Sales Performance Analysis
 
 In **early 2014**, sales begin low, reflecting the typical post-holiday decline seen in **January and February**. As consumer spending picks up, sales rise steadily until **May**, likely driven by spring promotions. The summer months of **June to August** show a predictable drop, consistent with a shift in consumer focus toward vacations and travel.
 
@@ -72,3 +72,60 @@ The East and West regions lead in total sales, while the South underperforms, in
   - **Expand successful strategies**: Analyze what drives the higher performance in the **East** and **West** regions (e.g., marketing strategies, local consumer preferences) and replicate these tactics in the **South**.
   - **Localize marketing efforts**: Tailor marketing campaigns to resonate with regional preferences in the **South**—this could include special promotions or product offerings that align with local cultural events or consumer behavior.
   - **Regional pricing and product availability**: Assess whether product availability or pricing strategies in the **South** can be adjusted to drive more sales in this underperforming region.
+
+
+# B. Profitability Analysis Report
+
+## 1. Profit by Region
+
+The **Profit by Region** chart shows clear differences in profitability across regions. The **East** and **West** regions outperform the **Central** and **South**, suggesting a need for targeted strategies to drive growth in underperforming areas.
+
+![Profit by Region](ProfitByRegion.png)
+
+### Key Insights:
+1. **Top-Performing Regions**: The **East** and **West** regions generate the highest profits, showcasing strong market penetration.
+2. **Underperformance in Central and South**: The **Central** and **South** regions show lower profit margins, indicating potential inefficiencies or lower demand.
+3. **Growth Opportunity**: Strategic initiatives in the **South** region can improve profitability.
+
+---
+
+## 2. Profit by Product Category
+
+The **Profit by Product Category** chart highlights that **Technology** is the most profitable category, while **Furniture** holds steady and **Office Supplies** lags behind.
+
+![Profit by Product Category](ProfitByProductCategory.png)
+
+### Key Insights:
+1. **Technology Leads**: **Technology** is the most profitable category, outpacing others significantly.
+2. **Furniture Stability**: While **Furniture** contributes well to profits, there’s room for optimization.
+3. **Office Supplies Underperformance**: **Office Supplies** generate the lowest profits, suggesting a need for category reassessment.
+
+---
+
+## 3. Profit by Customer Segment
+
+The **Profit by Customer Segment** chart shows that the **Consumer** segment drives the most profit, followed by **Corporate**, with **Home Office** underperforming.
+
+![Profit by Customer Segment](ProfitByCustomerSegment.png)
+
+### Key Insights:
+1. **Consumer Dominates**: The **Consumer** segment generates the highest profit.
+2. **Corporate Segment Potential**: The **Corporate** segment presents growth opportunities through targeted offerings.
+3. **Home Office Underperformance**: This segment requires a more personalized strategy to boost profitability.
+
+---
+
+## Business Plan - Key Recommendations
+
+### 1. Expand in Underperforming Regions
+   - **Recommendation**: Focus on expanding operations and marketing efforts in the **South** and **Central** regions, using successful strategies from the **East** and **West** regions.
+
+### 2. Boost Office Supplies and Furniture Categories
+   - **Recommendation**: Enhance profitability in **Office Supplies** and **Furniture** through product bundling, cross-selling, and strategic pricing adjustments.
+
+### 3. Target Corporate and Home Office Segments
+   - **Recommendation**: Develop specialized solutions and services for the **Corporate** and **Home Office** segments, such as bulk discounts and enterprise-level services to drive profit growth.
+
+---
+
+This business plan leverages the key profitability insights from the **Regional**, **Product Category**, and **Customer Segment** analyses to drive strategic growth and optimize performance.
