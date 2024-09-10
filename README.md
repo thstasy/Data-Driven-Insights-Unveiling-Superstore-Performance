@@ -177,3 +177,72 @@ This chart divides the **Corporate** and **Home Office** segments by **High Valu
 ---
 
 These insights and recommendations provide actionable steps to enhance business performance by focusing on key customer segments and capitalizing on high-value opportunities.
+
+# D. Discount Impact on Profit Analysis Report
+
+## 1. Average Profit by Discount Level
+
+This chart shows the **average profit** across different discount levels (**Low**, **Medium**, and **High**). It highlights how varying discount rates affect profitability.
+
+<img src="AverageProfitbyDiscountLevel.png" alt="Average Profit by Discount Level" width="50%" height="50%">
+
+### Key Insights:
+1. **Low Discounts Maximize Profit**: Low discounts (0-10%) result in the highest average profit, showing that smaller discounts effectively drive sales without heavily eroding margins.
+2. **Medium Discounts Reduce Profit**: Medium discounts (10-20%) significantly reduce average profit, but still maintain a positive profit margin.
+3. **High Discounts Are Unprofitable**: High discounts (20-50%) lead to negative profits, meaning deep discounts should be used sparingly.
+
+---
+
+## 2. Discounts vs Profit
+
+This scatter plot illustrates the relationship between individual **discount rates** and **profit** across transactions. It helps identify how discounts affect profitability on a per-transaction basis.
+
+<img src="Discounts_vs_Profit.png" alt="Discounts vs Profit" width="50%" height="50%">
+
+### Key Insights:
+1. **Negative Profit at High Discounts**: Transactions with higher discount rates frequently result in negative profits, suggesting that deep discounts often lead to losses.
+2. **Profits Cluster Around Low Discounts**: Profitable transactions tend to cluster around lower discount rates, supporting the idea that small discounts are more sustainable.
+3. **High Discount Variability**: Higher discounts introduce variability, with many resulting in losses, reinforcing the need to limit deep discounts.
+
+---
+
+## 3. Profit Distribution by Discount Level
+
+This box plot shows the **distribution of profit** across **Low**, **Medium**, and **High** discount levels, highlighting the range and outliers for each category.
+
+<img src="ProfitDistributionbyDiscountLevel.png" alt="Profit Distribution by Discount Level" width="50%" height="50%">
+
+### Key Insights:
+1. **Low Discounts Yield Consistent Profits**: Low discounts offer a more consistent range of positive profits, with fewer outliers and variability.
+2. **High Discounts Have Wide Profit Variability**: High discount levels show a wide range of profit variability, with most values falling below zero.
+3. **Medium Discounts Lead to Unstable Profits**: The medium discount range still sees some negative profit outliers, but generally maintains a balance between higher volume and profitability.
+
+---
+
+## 4. Profit Trend Over Time by Discount Level
+
+This chart tracks the **profit trend** over time (by year) for each discount level, showing how discounts have affected profitability over several years.
+
+<img src="ProfitTrendOverTimebyDiscountLevel.png" alt="Profit Trend Over Time by Discount Level" width="50%" height="50%">
+
+### Key Insights:
+1. **High Discounts Consistently Unprofitable**: The negative profit trend for high discounts remains consistent over time, showing little improvement in their effectiveness.
+2. **Low Discounts Maintain Profitability**: Low discounts show steady positive profits year over year, proving to be the most reliable strategy for maintaining healthy margins.
+3. **Medium Discounts Show Fluctuations**: Medium discounts have fluctuated, but generally show a downward trend, indicating a need for caution when offering medium-level discounts.
+
+---
+
+## **Business Recommendations**
+
+### 1. **Limit High Discounts**:
+   - **Insight**: High discounts consistently result in negative profits and should be avoided for most products. Reserve deep discounts for special cases, such as clearance sales, where volume and inventory management take priority.
+
+### 2. **Focus on Low Discounts**:
+   - **Insight**: Low discounts (0-10%) provide the best balance between sales volume and profitability. Implementing smaller discounts across most products will drive sales while maintaining healthy profit margins.
+
+### 3. **Monitor Medium Discounts Strategically**:
+   - **Insight**: Medium discounts (10-20%) show mixed results. Regularly monitor their impact on profit margins and consider adjusting based on product performance and market conditions. Tailor these discounts for specific segments or promotional periods where the tradeoff between profit and volume is justified.
+
+---
+
+These insights and recommendations provide a data-driven approach to optimize discount strategies, balancing profitability and sales growth.
