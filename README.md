@@ -21,13 +21,13 @@ Analyze sales trends over time to identify seasonal patterns, high-performing pr
 ### Visualizations
 
 1. **Sales Trend Over Time**
-   ![Sales Trend Over Time](Sales_Trend_Over_Time.png | width=25% | height=25%)
+   ![Sales Trend Over Time](Sales_Trend_Over_Time.png)
 
 2. **Sales by Product Category**
-   ![Sales by Product Category](Sales_By_Product_Category.png | width=25% | height=25%)
+   ![Sales by Product Category](Sales_By_Product_Category.png)
 
 3. **Sales by Region**
-   ![Sales by Region](Sales_By_Region.png | width=25% | height=25%)
+   ![Sales by Region](Sales_By_Region.png)
 
 ---
 
@@ -57,10 +57,8 @@ Analyze sales trends over time to identify seasonal patterns, high-performing pr
 ## Rationale
 
 1. **Holiday Peaks**: Maximizes revenue during high-demand periods.
-2. **Regional Growth**: Balances sales distribution by replicating successful strategies​⬤
-
-
-
+2. **Regional Growth**: Balances sales distribution by replicating successful strategies.
+3. **Product Focus**: Prioritizes high-margin categories and optimizes underperforming ones based on profitability data.
 
 
 
