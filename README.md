@@ -246,3 +246,51 @@ This chart tracks the **profit trend** over time (by year) for each discount lev
 ---
 
 These insights and recommendations provide a data-driven approach to optimize discount strategies, balancing profitability and sales growth.
+
+# Section 5: Shipping Mode Impact on Sales and Profit
+
+## Objective:
+The goal is to analyze how different shipping modes (First Class, Same Day, Second Class, Standard Class) impact both **Total Sales** and **Profit**. Additionally, we will evaluate the **Average Profit per Order** for each shipping mode to determine the most profitable shipping methods.
+
+---
+
+## 1. Total Sales and Profit by Shipping Mode
+
+This chart shows the **Total Sales** and **Total Profit** for each shipping mode. It helps us understand which shipping modes are driving the most revenue and profit.
+
+<img src="TotalSalesandProfitbyShippingMode.png" alt="Total Sales and Profit by Shipping Mode" width="50%" height="50%">
+
+### Key Insights:
+1. **Standard Class dominates in sales and profit**: Standard Class accounts for the highest sales and profit, indicating it is the most widely used and cost-effective shipping mode.
+2. **First Class and Second Class are profitable**: Both First Class and Second Class generate decent sales and profit, but they lag behind Standard Class in total revenue.
+3. **Same Day generates the least profit**: Same Day shipping shows significantly lower sales and profit, suggesting that it is either underutilized or less profitable compared to other shipping modes.
+
+---
+
+## 2. Average Profit per Order by Shipping Mode
+
+This chart illustrates the **Average Profit per Order** for each shipping mode, allowing us to assess the efficiency of each method in terms of profitability per transaction.
+
+<img src="AverageProfitperOrderbyShippingMode.png" alt="Average Profit per Order by Shipping Mode" width="50%" height="50%">
+
+### Key Insights:
+1. **Profit per order is consistent across shipping modes**: All shipping modes show similar average profit per order, indicating that the profitability per transaction remains stable regardless of the shipping method.
+2. **First Class has slightly higher average profit**: Although all modes perform similarly, First Class exhibits a slightly higher average profit per order, making it a favorable option for higher-value customers.
+3. **Same Day shipping is efficient**: Despite its lower total sales and profit, Same Day shipping still maintains a solid average profit per order, indicating it may be profitable when used selectively.
+
+---
+
+## Business Recommendations:
+
+1. **Focus on expanding Standard Class shipping**:
+   - **Insight**: Standard Class generates the highest sales and profit, making it a cost-effective option. Consider increasing its availability or promoting it further as a default shipping option.
+   
+2. **Maximize First Class for premium customers**:
+   - **Insight**: First Class shows a slightly higher average profit per order. Consider positioning it as a premium service for high-value customers who are willing to pay more for faster delivery times.
+
+3. **Analyze Same Day shipping further**:
+   - **Insight**: Same Day shipping generates the lowest total sales and profit, yet maintains a stable average profit per order. Investigate the demand for Same Day delivery and explore whether adjusting pricing or availability could increase its usage without compromising profit margins.
+
+---
+
+These recommendations aim to optimize shipping strategies by focusing on the most profitable modes while also exploring opportunities to improve underperforming methods.
