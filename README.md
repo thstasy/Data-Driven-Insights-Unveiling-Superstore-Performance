@@ -74,7 +74,7 @@ The East and West regions lead in total sales, while the South underperforms, in
   - **Localize marketing efforts**: Tailor marketing campaigns to resonate with regional preferences in the **South**—this could include special promotions or product offerings that align with local cultural events or consumer behavior.
   - **Regional pricing and product availability**: Assess whether product availability or pricing strategies in the **South** can be adjusted to drive more sales in this underperforming region.---
 
-# B. Profitability Analysis Report
+# B. Profitability Analysis 
 
 ## Objective:
 Identify which customer segments (Consumer, Corporate, Home Office) drive the most sales and profit, and analyze average order sizes to determine which customer group offers the highest value. This will help in tailoring marketing and sales strategies to each segment.
@@ -135,7 +135,7 @@ The **Profit by Customer Segment** chart shows that the **Consumer** segment dri
 This business plan leverages the key profitability insights from the **Regional**, **Product Category**, and **Customer Segment** analyses to drive strategic growth and optimize performance.
 
 
-# C. Customer Segment Analysis Report
+# C. Customer Segment Analysis
 
 ## 1. Sales and Profit by Customer Segment
 
