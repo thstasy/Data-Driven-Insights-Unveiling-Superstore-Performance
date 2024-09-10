@@ -1,5 +1,8 @@
 # A. Sales Performance Analysis
 
+## Objective:
+Analyze sales trends over time to identify key seasonal patterns, high-performing product categories, and regional sales disparities. The goal is to optimize inventory, promotions, and marketing strategies for peak sales periods and regions.
+
 In **early 2014**, sales begin low, reflecting the typical post-holiday decline seen in **January and February**. As consumer spending picks up, sales rise steadily until **May**, likely driven by spring promotions. The summer months of **June to August** show a predictable drop, consistent with a shift in consumer focus toward vacations and travel.
 
 Sales rebound in **November and December of 2014**, aligning with holiday shopping trends. This pattern repeats in **2015** and **2016**, with clear peaks during the holiday season and declines in early **January** and mid-year. Notably, **late 2017** shows the highest sales spike yet, marking a successful holiday period.
@@ -72,6 +75,10 @@ The East and West regions lead in total sales, while the South underperforms, in
   - **Regional pricing and product availability**: Assess whether product availability or pricing strategies in the **South** can be adjusted to drive more sales in this underperforming region.---
 
 # B. Profitability Analysis Report
+
+## Objective:
+Identify which customer segments (Consumer, Corporate, Home Office) drive the most sales and profit, and analyze average order sizes to determine which customer group offers the highest value. This will help in tailoring marketing and sales strategies to each segment.
+
 
 ## 1. Profit by Region
 
