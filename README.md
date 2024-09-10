@@ -134,7 +134,7 @@ This business plan leverages the key profitability insights from the **Regional*
 
 This chart shows the breakdown of **Total Sales** and **Total Profit** for each customer segment: **Consumer**, **Corporate**, and **Home Office**. The data reveals distinct patterns in how each segment contributes to revenue and profitability.
 
-![Sales and Profit by Customer Segment](Sales_and_Profit_by_Customer_Segment.png)
+<img src="Sales_and_Profit_by_Customer_Segment.png" alt="Sales and Profit by Customer Segment" width="50%" height="50%">
 
 ### Key Insights:
 1. **Consumer Dominates in Sales**: The **Consumer** segment drives the highest total sales, making it the most crucial for overall revenue generation.
@@ -147,7 +147,7 @@ This chart shows the breakdown of **Total Sales** and **Total Profit** for each 
 
 This chart divides the **Corporate** and **Home Office** segments by **High Value** and **Low Value** customers, based on average order size. It highlights differences in customer behavior within these segments.
 
-![Average Order Size by Customer Value](Average_Order_Size_by_Customer_Segment.png)
+<img src="Average_Order_Size_by_Customer_Segment.png" alt="Average Order Size by Customer Segment" width="50%" height="50%">
 
 ### Key Insights:
 1. **High-Value Customers Spend More**: Both the **Corporate** and **Home Office** segments show significantly higher average order sizes for **High Value** customers.
