@@ -80,7 +80,7 @@ The East and West regions lead in total sales, while the South underperforms, in
 
 The **Profit by Region** chart shows clear differences in profitability across regions. The **East** and **West** regions outperform the **Central** and **South**, suggesting a need for targeted strategies to drive growth in underperforming areas.
 
-![Profit by Region](ProfitByRegion.png)
+<img src="ProfitByRegion.png" alt="Profit by Region" width="50%" height="50%">
 
 ### Key Insights:
 1. **Top-Performing Regions**: The **East** and **West** regions generate the highest profits, showcasing strong market penetration.
@@ -93,7 +93,7 @@ The **Profit by Region** chart shows clear differences in profitability across r
 
 The **Profit by Product Category** chart highlights that **Technology** is the most profitable category, while **Furniture** holds steady and **Office Supplies** lags behind.
 
-![Profit by Product Category](ProfitByProductCategory.png)
+<img src="ProfitByProductCategory.png" alt="Profit by Product Category" width="50%" height="50%">
 
 ### Key Insights:
 1. **Technology Leads**: **Technology** is the most profitable category, outpacing others significantly.
@@ -106,7 +106,7 @@ The **Profit by Product Category** chart highlights that **Technology** is the m
 
 The **Profit by Customer Segment** chart shows that the **Consumer** segment drives the most profit, followed by **Corporate**, with **Home Office** underperforming.
 
-![Profit by Customer Segment](ProfitByCustomerSegment.png)
+<img src="ProfitByCustomerSegment.png" alt="Profit by Customer Segment" width="50%" height="50%">
 
 ### Key Insights:
 1. **Consumer Dominates**: The **Consumer** segment generates the highest profit.
