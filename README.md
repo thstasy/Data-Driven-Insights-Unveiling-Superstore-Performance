@@ -126,3 +126,47 @@ The **Profit by Customer Segment** chart shows that the **Consumer** segment dri
 ---
 
 This business plan leverages the key profitability insights from the **Regional**, **Product Category**, and **Customer Segment** analyses to drive strategic growth and optimize performance.
+
+
+# C. Customer Segment Analysis Report
+
+## 1. Sales and Profit by Customer Segment
+
+This chart shows the breakdown of **Total Sales** and **Total Profit** for each customer segment: **Consumer**, **Corporate**, and **Home Office**. The data reveals distinct patterns in how each segment contributes to revenue and profitability.
+
+![Sales and Profit by Customer Segment](Sales_and_Profit_by_Customer_Segment.png)
+
+### Key Insights:
+1. **Consumer Dominates in Sales**: The **Consumer** segment drives the highest total sales, making it the most crucial for overall revenue generation.
+2. **Corporate Offers Balanced Profit**: The **Corporate** segment shows a good balance between sales and profit, contributing significantly to both, but with room for expansion.
+3. **Home Office Lags Behind**: The **Home Office** segment generates the least profit, indicating a need for strategic adjustments in marketing or product offerings.
+
+---
+
+## 2. Average Order Size by Customer Value in Corporate and Home Office Segments
+
+This chart divides the **Corporate** and **Home Office** segments by **High Value** and **Low Value** customers, based on average order size. It highlights differences in customer behavior within these segments.
+
+![Average Order Size by Customer Value](Average_Order_Size_by_Customer_Segment.png)
+
+### Key Insights:
+1. **High-Value Customers Spend More**: Both the **Corporate** and **Home Office** segments show significantly higher average order sizes for **High Value** customers.
+2. **Low-Value Customers Dominate Volume**: While **Low Value** customers have smaller average order sizes, they likely contribute more in terms of volume, suggesting opportunities for upselling.
+3. **Corporate Segment Shows Potential**: The **Corporate** segment, especially among **High Value** customers, presents an opportunity to tailor high-end products or services.
+
+---
+
+## Business Recommendations
+
+### 1. **Focus on Expanding Corporate High-Value Customers**
+   - **Recommendation**: The Corporate segment shows promise, especially among high-value customers. Develop specialized services or exclusive offers for this group to increase average order size and profitability.
+
+### 2. **Revitalize Home Office Segment with Tailored Campaigns**
+   - **Recommendation**: The Home Office segment lags in profitability. Create targeted marketing campaigns to upsell and cross-sell to **Low Value** customers, converting them into high-value customers through personalized offers and product bundles.
+
+### 3. **Maximize Consumer Retention and Growth**
+   - **Recommendation**: Given the dominance of the **Consumer** segment, invest in customer retention strategies, such as loyalty programs and personalized offers, to maintain and grow this segment’s contribution to both sales and profit.
+
+---
+
+These insights and recommendations provide actionable steps to enhance business performance by focusing on key customer segments and capitalizing on high-value opportunities.
