@@ -294,3 +294,52 @@ This chart illustrates the **Average Profit per Order** for each shipping mode, 
 ---
 
 These recommendations aim to optimize shipping strategies by focusing on the most profitable modes while also exploring opportunities to improve underperforming methods.
+
+
+## F. Analysis Report: Top 10 Products by Sales and Profit
+
+### Objective
+
+The primary objective is to determine which products contribute the most to the company's revenue and profit. This involves identifying the top 10 products by total sales and profit, and comparing their performance to assess not only their popularity but also their profitability.
+
+### Methodology
+
+1. **Identify Top Products:**
+   - Determine the top 10 products by total sales.
+   - Determine the top 10 products by total profit.
+
+2. **Compare Performance:**
+   - Analyze and compare the sales and profit of these products to identify high performers in both categories.
+
+### Insights from the Graphs
+
+#### 1. Sales Performance
+
+![Top 10 Products by Sales](top_10_products_by_sales.png)
+
+**Insight 1:** The top 10 products by sales are characterized by high transaction volumes, indicating strong market demand. Products in this category have the highest revenue contributions, suggesting they are popular among customers.
+
+**Insight 2:** There may be a concentration of high sales among a few products, with the rest of the top 10 products contributing significantly less. This concentration could indicate potential for diversifying the product portfolio to spread sales more evenly.
+
+**Insight 3:** The products that drive high sales might not always align with the most profitable ones. This discrepancy can highlight opportunities to refine pricing strategies or improve cost management for higher revenue products.
+
+#### 2. Profit Performance
+
+![Top 10 Products by Profit](top_10_products_by_profit.png)
+
+**Insight 1:** The top 10 products by profit demonstrate that while some products are popular, their profitability varies. This suggests that high sales do not necessarily equate to high profit margins.
+
+**Insight 2:** Products with high profitability but lower sales could represent opportunities for growth. Enhancing marketing or sales strategies for these products might improve their market presence and overall profitability.
+
+**Insight 3:** Products with both high sales and high profits are crucial for the company’s financial health. These products should be prioritized for continued investment and development to sustain their performance.
+
+### Business Advice
+
+1. **Optimize Product Portfolio:**
+   - Focus on products that exhibit both high sales and high profit. Ensure that resources are allocated efficiently to maintain and boost the performance of these key products.
+
+2. **Revise Pricing and Cost Strategies:**
+   - Evaluate pricing strategies and cost structures for products with high sales but lower profits. Adjust pricing or cost management practices to enhance profitability while maintaining competitive market positioning.
+
+3. **Explore Growth Opportunities:**
+   - Identify and invest in products with high profitability but lower sales potential. Develop targeted marketing campaigns or expand distribution channels to increase their market reach and overall contribution to revenue and profit.
