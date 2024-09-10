@@ -333,7 +333,7 @@ The primary objective is to determine which products contribute the most to the 
 
 **Insight 3:** Products with both high sales and high profits are crucial for the company’s financial health. These products should be prioritized for continued investment and development to sustain their performance.
 
-### Business Advice
+### Business Recommendations
 
 1. **Optimize Product Portfolio:**
    - Focus on products that exhibit both high sales and high profit. Ensure that resources are allocated efficiently to maintain and boost the performance of these key products.
