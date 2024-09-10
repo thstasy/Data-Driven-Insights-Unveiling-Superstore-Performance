@@ -296,7 +296,7 @@ This chart illustrates the **Average Profit per Order** for each shipping mode, 
 These recommendations aim to optimize shipping strategies by focusing on the most profitable modes while also exploring opportunities to improve underperforming methods.
 
 
-## F. Analysis Report: Top 10 Products by Sales and Profit
+# F. Top 10 Products by Sales and Profit Analysis
 
 ### Objective
 
