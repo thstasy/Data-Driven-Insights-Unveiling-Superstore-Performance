@@ -178,7 +178,7 @@ This chart divides the **Corporate** and **Home Office** segments by **High Valu
 
 These insights and recommendations provide actionable steps to enhance business performance by focusing on key customer segments and capitalizing on high-value opportunities.
 
-# D. Discount Impact on Profit Analysis Report
+# D. Discount Impact on Profit Analysis
 
 ## 1. Average Profit by Discount Level
 
@@ -247,7 +247,7 @@ This chart tracks the **profit trend** over time (by year) for each discount lev
 
 These insights and recommendations provide a data-driven approach to optimize discount strategies, balancing profitability and sales growth.
 
-# Section 5: Shipping Mode Impact on Sales and Profit
+# E. Shipping Mode Impact on Sales and Profit Analysis
 
 ## Objective:
 The goal is to analyze how different shipping modes (First Class, Same Day, Second Class, Standard Class) impact both **Total Sales** and **Profit**. Additionally, we will evaluate the **Average Profit per Order** for each shipping mode to determine the most profitable shipping methods.
